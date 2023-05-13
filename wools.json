@@ -1,0 +1,69 @@
+{
+  "wools": [
+    {
+      "brand": "DMC",
+      "model:": "Natura XL",
+      "offeredInPlatforms": [
+        {
+          "platform": "Wollplatz",
+          "info": {
+            "price": 8.46,
+            "availability": false,
+            "needle_size": 8,
+            "composition": "100% Baumwolle"
+          }
+        }
+      ]
+    },
+    {
+      "brand": "Drops",
+      "model:": "Safran",
+      "offeredInPlatforms": [
+        {
+          "platform": "Wollplatz",
+          "info": {
+            "price": 1.55,
+            "availability": true,
+            "needle_size": 3,
+            "composition": "100% Baumwolle"
+          }
+        }
+      ]
+    },
+    {
+      "brand": "Drops",
+      "model:": "Baby Merino Mix",
+      "offeredInPlatforms": [
+        {
+          "platform": "Wollplatz",
+          "info": {
+            "price": 3.75,
+            "availability": true,
+            "needle_size": 3,
+            "composition": "100% Merinowolle"
+          }
+        }
+      ]
+    },
+    {
+      "brand": "Hahn",
+      "model:": "Alpacca Speciale",
+      "offeredInPlatforms": []
+    },
+    {
+      "brand": "Stylecraft",
+      "model:": "Special double knit",
+      "offeredInPlatforms": [
+        {
+          "platform": "Wollplatz",
+          "info": {
+            "price": 3.05,
+            "availability": true,
+            "needle_size": 4,
+            "composition": "100% Acryl"
+          }
+        }
+      ]
+    }
+  ]
+}
