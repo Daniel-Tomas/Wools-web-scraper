@@ -1,3 +1,11 @@
+## Steps to understand this code challenge solution
+1. Read challenge-description.pdf
+2. Read this README
+3. Dive into the code, wools_scraping_orchestrator.py is a good starting point
+
+<br>
+
+## Solution discussion
 ### Design and Development Considerations
 - I have assumed the logical scope of this challenge is only the backend. 
 
